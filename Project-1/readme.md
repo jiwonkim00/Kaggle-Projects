@@ -1,1 +1,2 @@
-Project 1 : Machine Learning on wine data
+## Project 1 
+### Machine Learning on wine data
